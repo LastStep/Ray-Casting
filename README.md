@@ -1,7 +1,8 @@
+# Ray Casting with Neural Network and Genetic Algorithm
+
+This project implements a **neural network** that evolves using a **genetic algorithm**. 
+
+## Demo
+https://github.com/user-attachments/assets/0039ede1-f555-4e00-863f-d02ff1e80e1e
 
 
-This project implements a simple neural network that evolves using a genetic algorithm. It consists of:
-
-Neural Network: Processes input data and learns through feedforward and backpropagation.
-Mutation: Introduces random changes to the network’s weights to explore new solutions.
-Genetic Algorithm: Selects the best-performing networks and creates a new generation by copying and mutating them.
